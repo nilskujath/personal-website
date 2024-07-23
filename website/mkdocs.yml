@@ -4,8 +4,7 @@ copyright: Copyright &copy; Nils Kujath
 extra:
   generator: false
 nav:
-  - Home: index.md
-  - Curriculum Vitae: about.md
+  - Curriculum Vitae: index.md
   - Publications: publications.md
 theme:
   name: material
