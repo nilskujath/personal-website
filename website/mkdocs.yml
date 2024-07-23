@@ -1,0 +1,14 @@
+site_name: Nils Kujath
+site_url: https://nilskujath.github.io/personal-website
+copyright: Copyright &copy; Nils Kujath
+extra:
+  generator: false
+nav:
+  - Home: index.md
+  - Curriculum Vitae: about.md
+  - Publications: publications.md
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: black
