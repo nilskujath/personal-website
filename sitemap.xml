@@ -3,9 +3,11 @@
     <url>
          <loc>https://nilskujath.github.io/personal-website/</loc>
          <lastmod>2024-09-07</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://nilskujath.github.io/personal-website/publications/</loc>
          <lastmod>2024-09-07</lastmod>
+         <changefreq>daily</changefreq>
     </url>
 </urlset>
